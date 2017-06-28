@@ -1,0 +1,38 @@
+
+body.black{
+  background-color: black;
+  color: white;
+}
+#logo{
+  width: 100px;
+}
+.container{
+  padding-top: 20px;
+}
+#control{
+  margin-bottom:40px;
+}
+/*
+body{
+  margin:0;
+}
+header{
+  border-bottom: 1px solid grey;
+  padding-left: 30px;
+}
+nav{
+  border-right:1px solid grey;
+  width:200px;
+  height:700px;
+  float: left;
+}
+nav ol{
+  margin: 0;
+  padding:20px;
+  list-style:none;
+}
+#content{
+  padding-left:20px;
+  float:left;
+  width:500px;
+}
